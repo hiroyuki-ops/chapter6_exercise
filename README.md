@@ -1,1 +1,1 @@
-# chapter6_exervise
+# chapter6_exercise
